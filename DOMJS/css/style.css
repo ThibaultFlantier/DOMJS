@@ -1,0 +1,62 @@
+#parent {
+	height: 400px;
+	width: 400px;
+	background-color: red;
+	border: 1px solid black;
+    padding-left: 100px;
+    padding-top: 100px;
+}
+
+#enfant {
+	height: 300px;
+	width: 300px;
+	background-color: green;
+	border: 1px solid black;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+
+#bouton1 {
+	background-color: red;
+}
+
+#bouton2 {
+	background-color: green;
+}
+
+#bouton3 {
+	background-color: blue;
+}
+
+.blue {
+	height: 200px;
+	width: 400px;
+	background-color: blue;
+}
+
+
+.red {
+	background-color: red;
+	height: 400px;
+	width: 200px;
+}
+
+#boutonone {
+	background-color: yellow;
+}
+
+#boutontwo {
+	background-color: magenta;
+}
+#boutonthree {
+	background-color: black;
+	color: white;
+}
+
+
+#img1 {
+	position: absolute;
+	width: 400px;
+	height: auto;
+}
